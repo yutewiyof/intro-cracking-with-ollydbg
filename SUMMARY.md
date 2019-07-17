@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [TODO](TODO.md)
 * [Указатель](ch-00.md)
 * [Глава 1](ch-01.md)
 * [Глава 2](ch-02.md)
